@@ -18,3 +18,18 @@ docker run -p 6080:80 -p 5900:5900 -v /dev/shm:/dev/shm dorowu/ubuntu-desktop-lx
 ....
 
 Sau khi kết thúc setup.
+
+Click vào biểu tượng dấu '+' trong katacoda có tên là (web preview)  
+
+Chọn:
+
+Select port to view on Host 1
+
+Nhập vào 6070 hoặc cổng mà bạn tự đặt.
+
+Ấn 'Display Port'
+
+
+Chú ý không tắt trang katakoda trong quá trình sử dụng.
+
+Done! chúc may mắn.
