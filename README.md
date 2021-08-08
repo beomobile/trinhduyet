@@ -35,4 +35,6 @@ Nhập vào 6070 hoặc cổng mà bạn tự đặt.
 
 Chú ý không tắt trang katakoda trong quá trình sử dụng.
 
+# Hình ảnh hướng dẫn trong mục File ở trên
+
 Done! chúc may mắn.
