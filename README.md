@@ -2,6 +2,9 @@
 Thử nghiệm Vps (Desktop VNC) Eu trên trình duyệt Sử dụng katacoda
 # Cách cài đặt và sử dụng
 đây là tool hoàn toàn miễn phí. Không phải đăng ký hay abc... việc bạn cần làm là copy và paste là done.
+
+Bạn có thể làm việc trên bất kỳ máy chủ ubuntu nào mà bạn có không nhất thiết phải là katacoda. Tất nhiên nó phải miễn phí
+
 1. Đăng nhập vào: https://katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1
 2. Click vào "Start Scenario" 
 3. Đợi cho máy chủ tải file vài phút.
